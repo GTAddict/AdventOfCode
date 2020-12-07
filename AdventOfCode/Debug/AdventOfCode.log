@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\gtaddict\source\repos\adventofcode\adventofcode\day1.h(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\gtaddict\source\repos\adventofcode\adventofcode\day1.h(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\gtaddict\source\repos\adventofcode\adventofcode\day1.h(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\gtaddict\source\repos\adventofcode\adventofcode\day4.h(49): warning C4018: '>=': signed/unsigned mismatch
+c:\users\gtaddict\source\repos\adventofcode\adventofcode\day5.h(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\gtaddict\source\repos\adventofcode\adventofcode\day7.h(46): warning C4018: '<': signed/unsigned mismatch
+  AdventOfCode.vcxproj -> C:\Users\gtaddict\source\repos\AdventOfCode\Debug\AdventOfCode.exe
