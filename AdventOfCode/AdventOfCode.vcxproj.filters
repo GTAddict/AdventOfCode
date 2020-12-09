@@ -44,5 +44,8 @@
     <ClInclude Include="Day8.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="Day9.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

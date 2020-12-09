@@ -6,10 +6,11 @@
 #include "Day6.h"
 #include "Day7.h"
 #include "Day8.h"
+#include "Day9.h"
 
 int main()
 {
-	Day8();
+	Day9();
 	
 	system("pause");
 	return 0;

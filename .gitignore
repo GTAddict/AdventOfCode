@@ -32,3 +32,8 @@
 *.app
 *.pdb
 *.ilk
+
+#
+**/Debug
+**/Release
+**/.vs
